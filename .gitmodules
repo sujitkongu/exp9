@@ -1,6 +1,3 @@
-[submodule "submod"]
-	path = submod
-	url = .\\submod\\
 [submodule "oslap"]
 	path = oslap
 	url = https://github.com/sujitkongu/oslap.git
